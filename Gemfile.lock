@@ -57,7 +57,7 @@ GEM
     drb (2.2.3)
     erb (6.0.4)
     erubi (1.13.1)
-    gds-api-adapters (103.4.0)
+    gds-api-adapters (103.4.2)
       addressable
       link_header
       null_logger
@@ -345,7 +345,7 @@ GEM
     puma (8.0.2)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.2.6)
+    rack (3.2.7)
     rack-proxy (0.8.2)
       rack
     rack-session (2.1.2)

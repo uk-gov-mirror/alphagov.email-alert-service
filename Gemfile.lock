@@ -57,7 +57,7 @@ GEM
     drb (2.2.3)
     erb (6.0.4)
     erubi (1.13.1)
-    gds-api-adapters (103.4.2)
+    gds-api-adapters (103.4.4)
       addressable
       link_header
       null_logger
